@@ -19,7 +19,7 @@
 - [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
 - [imewlconverter(词库转换)](https://github.com/studyzy/imewlconverter)
 - [weasel.exe](https://rime.im/)
-18. 看图
+1. 看图
 - [BANDIVIEW](https://www.bandisoft.com/bandiview/)
 - [qView](https://interversehq.com/qview/download/)
 19. 压缩
@@ -47,16 +47,17 @@
 1. [BOOTICEx64_](https://bootice.en.lo4d.com/windows)
 2. [ Cinebench Installer](https://cinebench.net/)
 3. [MSIAfterburnerInstaller466](https://www.msi.com/Landing/afterburner/graphics-cards)
-4. [PrivaZer_free](https://privazer.com/en/download.php)
-5. [qbittorrent_enhanced_](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-6. [SoftCnKiller2.82]()
-7. [Speedy](https://github.com/game1024/OpenSpeedy)
-8. [ventoy](https://www.ventoy.net/en/download.html)
-9. [WePE](https://www.wepe.com.cn/download.html)
-10. 驱动检测
-11. [图吧工具箱]((https://www.tbtool.cn/download/))
+4. [Obsidian](https://obsidian.md/)
+5. [PrivaZer_free](https://privazer.com/en/download.php)
+6. [qbittorrent_enhanced_](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+7. [SoftCnKiller2.82]()
+8. [Speedy](https://github.com/game1024/OpenSpeedy)
+9. [ventoy](https://www.ventoy.net/en/download.html)
+10. [WePE](https://www.wepe.com.cn/download.html)
+11. 驱动检测
+12. [图吧工具箱]([202601.1安装包](https://www.tbtool.cn/download/))
 # 5. 其他
-1. CascadiaCode(字体）
+1. CascadiaCode
 2. [CyberGRUB-2077](https://github.com/adnksharp/CyberGRUB-2077)
 3. [LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
 4. Microsoft.DesktopAppInstaller(win上的包管理器 WinGet)
