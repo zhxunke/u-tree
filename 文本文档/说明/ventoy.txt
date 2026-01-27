@@ -1,0 +1,14 @@
+ventoy
+https://www.ventoy.net/cn/index.html
+安装
+打开 VentoyPlugson.exe 进入网页
+全局控制插件：改中文 
+            菜单显示 目录树模式
+            可指定镜像文件搜索目录
+主题插件 文件路径加入
+        屏幕分辨率 max
+        字体文件 .pf2关联
+菜单类型插件 添加关联图标
+
+文件层级：E:\ventoy\themes\Wuthering-changli
+          iso与ventoy并列

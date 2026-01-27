@@ -1,0 +1,68 @@
+你缺的计算机课
+https://www.criwits.top/missing/
+Linux 101
+https://101.lug.ustc.edu.cn/
+Linux就该这么学
+https://www.linuxprobe.com/chapter-00.html
+机佬导航 
+ https://jldzz.cn/
+果核应用
+https://www.ghxi.com/category/all
+哲风壁纸
+https://haowallpaper.com
+雨夜回廊  github仓库
+https://myql.eu.org/about
+rime配置
+https://www.mintimate.cn/2023/03/18/rimeQuickInit#google_vignette
+镜像站
+https://massgrave.dev/windows_ltsc_links
+z-图书馆
+https://zh.eva101.ru/
+习字丛林
+https://www.edclub.com/zh/library/%E4%B9%A0%E5%AD%97%E4%B8%9B%E6%9E%97
+我爱打字
+https://dazidazi.com/
+订阅
+https://sub.mangshe.one/api/v1/client/subscribe?token=36212d01573f63579a17af2f22c3cc1c
+
+图吧工具箱 
+显卡驱动
+BoosterX  优化软件
+bandview 看图
+Bandizip  7-zip  nanazip  压缩   
+CloudMusic  网易云音乐 
+chrome  浏览器
+Clash Verge      v2rayn 
+epic 
+explorerpatcher  磁贴开始菜单，状态栏风格（github开源项目）
+fastcopy  复制文件   
+HiBit Uninstaller   清理
+Kazumi 看番
+Neat Download Manager  下载工具  浏览器插件
+Notepad3Portable   文本编辑器 
+MSI Afterburner  微星小飞机
+office tool plus    部署工具
+pixpin  截图 
+privazer   深度清理 
+PS
+PotPlayer   视频播放
+QuickLook   空格查看 
+QQ 微信 
+qBittorrent  BT种子 
+qView  看图win10
+readest    电子书阅读器 
+Rime 输入法  词库转化：深蓝词库转换
+speedy  网盘加速
+Stata18  统计学软件
+steam
+steam++    加速器
+TranslucentTB  状态栏透明 
+Typeeasy  金山打字通 
+wiztree  查看文件大小分布
+Wise Disk Cleaner  日常清理  
+ventoy  稳托   
+
+此电脑>文档  更改存储位置为D盘
+将文件类型指定软件默认打开，比如.mp4用PotPlayer  .zip  .rar用7-zip打开
+开机自启，clash N下载 TB透明
+wallpaper设置热键一键隐藏桌面应用

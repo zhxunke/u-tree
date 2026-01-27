@@ -1,0 +1,51 @@
+
+终端美化
+
+博文
+https://www.cnblogs.com/zhiwu215/p/18991784
+
+oh my posh
+https://ohmyposh.dev/docs/installation/customize
+
+
+如果没有winget
+github下载安装包
+Add-AppxPackage ".\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
+
+安装并改字体等外观
+
+安装 oh my posh
+winget install JanDeDobbeleer.OhMyPosh --source winget --scope user --force
+
+创建文档
+New-Item -Path $PROFILE -Type File -Force
+编辑文件脚本
+notepad $PROFILE
+
+新文件中粘贴：
+oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression
+保存文件，重启powershell
+
+
+如果报措：
+ 无法加载文件 D:\WindowsPowerShell\Microsoft.PowerShell_profile.ps1，因为在此系统上禁止运行脚本。有关详细信息，请参
+阅 
+修改当前用户的策略（最常用）
+在打开的管理员窗口中，输入以下命令并回车：
+
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+系统会提示你确认更改，输入 Y 并按回车。
+完成后，可以输入 Get-ExecutionPolicy 检查，如果显示 RemoteSigned，说明修改成功。
+
+
+显示
+打开 Windows Terminal 
+安装
+winget install fastfetch-cli.fastfetch
+运行：
+fastfetch
+
+
+
+Linux：
+fastfetch | lolcat

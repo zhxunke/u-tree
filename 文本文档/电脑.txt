@@ -1,0 +1,101 @@
+查看UEFI支持
+win+R      msinfo32
+
+
+ Dism++  
+    1.清理文件
+    2.控制面板  Win主题设置，透明，桌面壁纸高清    
+       开始菜单及体验，关闭推广 
+	explorer，显示扩展名，隐藏桌面箭头  禁用win11新右键，默认更多
+	
+C:\Windows\LiveKernelReports 为系统崩溃生成的诊断转储文件 应当删除
+	
+
+命令提示符（运行，cmd）
+   1.管理员模式，输入chkdsk c: /f    (c为C盘c前一个空格），Y    获取此命令更多使用方法，输入chkdsk /?   回车
+   2.powercfg -h off          hiberfil.sys 系统休眠文件   powercfg -h on  恢复休眠功能
+启用或关闭windows功能
+   1.hyper-V (虚拟机功能）
+   2.适用于Linux的子系统   WSL2支持
+
+文件资源管理器
+   1.查看，显示，紧凑视图
+   2.打开文件夹时显示 此电脑
+
+任务管理器
+   1.关闭自启动应用
+   2.性能，内存，频率，不符合，去bios打开XMP或expo
+自启动第三方应用
+	win+R 运行 
+	输入shell:startup 回车
+	在此处添加快捷方式
+
+win搜索
+   1.调整windows外观和性能，自定义（只留平滑字体边缘和显示缩略图，而不是显示图标）
+   2.高级系统设置，性能设置，改虚拟内存
+      物理内存*1.5＝虚拟内存，注意单位MB
+      先取消勾选自动管理...   自定义初始大小，应用，重启
+
+运行
+   1.regedit  注册表
+   LOCAL，SOFTWARE，Microsoft，Dfrg，BootOptimizeFunction  数据Yes改为No(关启动优化功能
+     
+电脑设置
+   1.辅助功能，视觉效果，关闭动画效果
+   2.个性化，任务栏
+                   锁屏界面，取消花絮，锁屏状态，无
+                   设备使用情况，关
+   3.系统，屏幕，分辨率，刷新率点满
+               存储感知，开，保存新内容的地方改D盘
+               电源，电源模式，连接电源时 最佳 
+    4.隐私与安全，
+        位置，关，检查权限
+        常规，全关
+        诊断与反馈，关，从不
+
+   5.Windous更新
+       传递优化，允许从其他设备下载  关
+       关闭更新  注册表  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings
+                        在这里新建，32位DWORD值，命名为 FlightSettingMaxPauseDays
+                        双击选择十进制，填一个不超过3000的数，确定，最后在更新里选择暂停上百周
+
+控制面板
+   1.电源  设计计划  最小20%（电池10%），最大100%
+ 
+ 计算机管理
+   1.服务，sysMain，右键属性，启动类型改为禁用停止服务，应用确认（开机预加载程序数据
+       windows Search同样操作（系统文件搜 索，提前使用如Everything来搜索）
+       Connected User Experiences and Telemetry同上 （微软遥测服务，监视电脑数据）
+
+图吧，
+   1.磁盘，AS SSD 绿标为4K对齐，没有去Bios
+
+Bios
+   1.磁盘未4K对齐，SATA，AHCI打开，然后去磁盘分区
+ 
+ game bar 选择性删除
+ edge
+   1.系统和性能   
+        系统：关前三个        
+        性能：关前两个
+   2.下载位置
+
+微软账号改为本地账号
+
+epic
+   应用快捷方式改为64位
+		
+管理谷歌账号
+   1.安全性，暗网报告
+
+谷歌浏览器  设置 
+   1.隐私与安全  ， 
+   第三方cookie，预加载网页，无预加载
+   安全浏览（增强型保护）
+   安全链接
+   使用安全DNS（cloudflare)
+   管理V8安全性，关闭
+   高级保护计划
+   2.系统，关闭后台
+   3.下载位置
+

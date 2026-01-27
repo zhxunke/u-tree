@@ -1,0 +1,34 @@
+简明指南
+https://arch.icekylin.online/guide/
+安装指南中文WiKi
+https://wiki.archlinuxcn.org/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97
+林长枫的文档
+https://github.com/SHORiN-KiWATA/ShorinArchExperience-ArchlinuxGuide/wiki/%E5%AE%89%E8%A3%85ArchLinux#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85
+
+
+系统更新
+sudo pacman -Syu
+
+
+
+配置查看（彩色
+sudo pacman -S fastfetch lolcat
+
+
+Arch配置
+sudo pacman -S git && git clone https://github.com/SHORiN-KiWATA/shorin-arch-setup.git && cd shorin-arch-setup && sudo bash install.sh
+
+# 1. 安装 git
+sudo pacman -Sy git
+
+# 2. 克隆仓库
+git clone https://github.com/SHORiN-KiWATA/shorin-arch-setup.git
+ 连不上github的话可以用gitee
+git clone https://gitee.com/shorinkiwata/shorin-arch-setup.git
+# 3. 进入目录并运行
+cd shorin-arch-setup
+sudo bash install.sh
+
+
+
+

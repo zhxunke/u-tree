@@ -1,0 +1,23 @@
+irm https://get.activated.win | iex 
+
+
+C:\Windows\System32\DriverStore\FileRepository 是 Windows 系统中最核心的驱动程序存储仓库（Driver Store 的主要内容），简单说就是系统用来“囤积”所有安装过/正在使用的驱动包的地方。
+
+C:\Users\xunke\AppData\Roaming\HiBit Uninstaller\Uninstaller\Backup
+ HiBit自己创建的备份文件夹。
+
+win+R
+shell:startup
+右键，新建快捷方式
+浏览添加
+
+
+
+
+
+
+
+
+
+
+
