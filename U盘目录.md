@@ -15,17 +15,18 @@
 14. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 15. [VMware](https://support.broadcom.com/group/ecx/my-dashboard)
 16. [WDCFree(清理工具)](https://www.wisecleaner.com/wise-disk-cleaner.html)
-17. [Rime](https://rime.im/)
-- full.zip
-- imewlconverter_win-x64.zip
-- weasel-0.17.4.0-installer.exe
-18. 看图
+17. Rime
+- [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
+- [imewlconverter(词库转换)]([_win-x64.zip](https://github.com/studyzy/imewlconverter))
+- [weasel.exe](https://rime.im/)
+1. 看图
 - [BANDIVIEW](https://www.bandisoft.com/bandiview/)
 - [qView](https://interversehq.com/qview/download/)
 19. 压缩
 - -[7-zip](https://www.7-zip.org/)
 - -[bandizip](https://tw.bandisoft.com/bandizip/)
 - -[Nanazip](https://github.com/M2Team/NanaZip)
+
 
 # 2. 本。
 1. Linux命令行大全第二版.pde
