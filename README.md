@@ -37,11 +37,12 @@
 6. 共和国的历程.pdf
 7. 关于建国以来党的若干历史问题的决议注释本.pdf
 8. 六极物理.mobi
-9. 毛泽东传_罗斯特里尔.epub
-10. 高中思政课本选修3逻辑与思维.pdf
-11. 轻松学Linux-从Manjaro到Arch Linux.epub
-12. 毛泽东选集
-13. 中华人民共和国史_港中大版
+9. 了不起的Markdown.epub
+10. 毛泽东传_罗斯特里尔.epub
+11. 高中思政课本选修3逻辑与思维.pdf
+12. 轻松学Linux-从Manjaro到Arch Linux.epub
+13. 毛泽东选集
+14. 中华人民共和国史_港中大版
 # 3. 大学
 # 4. 工具
 1. BOOTICEx64_
@@ -85,6 +86,6 @@
 - linux系统命令
 - office
 - Rime
-- ri
+- 个人词库
 - ventoy
 - 组织托管浏览器
