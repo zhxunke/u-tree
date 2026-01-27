@@ -19,7 +19,7 @@
 - [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
 - [imewlconverter(词库转换)](https://github.com/studyzy/imewlconverter)
 - [weasel.exe](https://rime.im/)
-1. 看图
+18. 看图
 - [BANDIVIEW](https://www.bandisoft.com/bandiview/)
 - [qView](https://interversehq.com/qview/download/)
 19. 压缩
@@ -54,9 +54,9 @@
 8. [ventoy](https://www.ventoy.net/en/download.html)
 9. [WePE](https://www.wepe.com.cn/download.html)
 10. 驱动检测
-11. [图吧工具箱]([202601.1安装包](https://www.tbtool.cn/download/))
+11. [图吧工具箱]((https://www.tbtool.cn/download/))
 # 5. 其他
-1. CascadiaCode
+1. CascadiaCode(字体）
 2. [CyberGRUB-2077](https://github.com/adnksharp/CyberGRUB-2077)
 3. [LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
 4. Microsoft.DesktopAppInstaller(win上的包管理器 WinGet)
