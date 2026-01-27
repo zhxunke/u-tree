@@ -17,7 +17,7 @@
 16. [WDCFree(清理工具)](https://www.wisecleaner.com/wise-disk-cleaner.html)
 17. Rime
 - [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
-- [imewlconverter(词库转换)]([_win-x64.zip](https://github.com/studyzy/imewlconverter))
+- [imewlconverter(词库转换)](https://github.com/studyzy/imewlconverter)
 - [weasel.exe](https://rime.im/)
 1. 看图
 - [BANDIVIEW](https://www.bandisoft.com/bandiview/)
