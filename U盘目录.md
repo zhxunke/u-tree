@@ -4,7 +4,7 @@
 3. [Kazumi看番](https://github.com/Predidit/Kazumi)
 4. [NeatDM_setup(N下载)](https://neatdownloadmanager.com/index.php/en/)
 5. [Notepad3(文本编辑器)](https://github.com/rizonesoft/Notepad3)
-6. [Office_Tool](https://otp.landian.vip/zh-cn/)_
+6. [Office_Tool](https://otp.landian.vip/zh-cn/)
 7. [PixPin](https://pixpin.cn/)
 8. [Potplayer](https://potplayer.tv/)
 9. [python](https://www.python.org/downloads/)
