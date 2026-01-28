@@ -25,7 +25,7 @@ https://dazidazi.com/
 MarkDown
 https://www.runoob.com/markdown/obsidian-tutorial.html
 订阅
-https://sub.mangshe.one/api/v1/client/subscribe?token=36212d01573f63579a17af2f22c3cc1c
+蟒蛇
 
 图吧工具箱 
 显卡驱动
