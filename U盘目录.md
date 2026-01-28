@@ -1,33 +1,33 @@
 # 1. 安装 
-1. [Chrome](https://www.google.com/chrome/?brand=AJCO&ds_kid=20777801&gclsrc=aw.ds&gad_source=1&gad_campaignid=213685549&gbraid=0AAAAAoY3CA7Gfv78FuKLJfyPQG9ml6zkT&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoL-GTLe2lcy8YDZdugvzXnE20OQsXY9h_dsFnBFYB52Q1T4vcZt6FkaAukNEALw_wcB)
-2. [HiBitUninstaller](https://hibit-uninstaller.en.softonic.com/)
-3. [Kazumi看番](https://github.com/Predidit/Kazumi)
-4. [NeatDM_setup(N下载)](https://neatdownloadmanager.com/index.php/en/)
-5. [Notepad3(文本编辑器)](https://github.com/rizonesoft/Notepad3)
-6. [Office_Tool](https://otp.landian.vip/zh-cn/)
-7. [PixPin](https://pixpin.cn/)
-8. [Potplayer](https://potplayer.tv/)
-9. [python](https://www.python.org/downloads/)
-10. [Steam++](https://steampp.net/)
-11. [Steam](s.team)
-12. [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
-13. [UU加速器](https://uu.163.com/)
-14. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-15. [VMware](https://support.broadcom.com/group/ecx/my-dashboard)
-16. [WDCFree(清理工具)](https://www.wisecleaner.com/wise-disk-cleaner.html)
-17. Rime
-- [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
-- [imewlconverter(词库转换)](https://github.com/studyzy/imewlconverter)
-- [weasel.exe](https://rime.im/)
-1. 看图
-- [BANDIVIEW](https://www.bandisoft.com/bandiview/)
-- [qView](https://interversehq.com/qview/download/)
-19. 压缩
-- -[7-zip](https://www.7-zip.org/)
-- -[bandizip](https://tw.bandisoft.com/bandizip/)
-- -[Nanazip](https://github.com/M2Team/NanaZip)
 
+1.  Rime
+	- [full.zip](https://github.com/iDvel/rime-ice/releases/tag/nightly)
+	- [imewlconverter(词库转换)](https://github.com/studyzy/imewlconverter)
+	- [weasel.exe](https://rime.im/)
+2. 看图
+	- [BANDIVIEW](https://www.bandisoft.com/bandiview/)
+	- [qView](https://interversehq.com/qview/download/)
+3. . 压缩
+	- -[7-zip](https://www.7-zip.org/)
+	- -[bandizip](https://tw.bandisoft.com/bandizip/)
+	- -[Nanazip](https://github.com/M2Team/NanaZip)
 
+4. [Chrome](https://www.google.com/chrome/?brand=AJCO&ds_kid=20777801&gclsrc=aw.ds&gad_source=1&gad_campaignid=213685549&gbraid=0AAAAAoY3CA7Gfv78FuKLJfyPQG9ml6zkT&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoL-GTLe2lcy8YDZdugvzXnE20OQsXY9h_dsFnBFYB52Q1T4vcZt6FkaAukNEALw_wcB)
+5. [HiBitUninstaller](https://hibit-uninstaller.en.softonic.com/)
+6. [Kazumi看番](https://github.com/Predidit/Kazumi)
+7. [NeatDM_setup(N下载)](https://neatdownloadmanager.com/index.php/en/)
+8. [Notepad3(文本编辑器)](https://github.com/rizonesoft/Notepad3)
+9. [Office_Tool](https://otp.landian.vip/zh-cn/)
+10. [PixPin](https://pixpin.cn/)
+11. [Potplayer](https://potplayer.tv/)
+12. [python](https://www.python.org/downloads/)
+13. [Steam++](https://steampp.net/)
+14. [Steam](s.team)
+15. [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
+16. [UU加速器](https://uu.163.com/)
+17. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+18. [VMware](https://support.broadcom.com/group/ecx/my-dashboard)
+19. [WDCFree(清理工具)](https://www.wisecleaner.com/wise-disk-cleaner.html)
 # 2. 本。
 1. Linux命令行大全第二版.pde
 2. 超新星纪元.pdf
