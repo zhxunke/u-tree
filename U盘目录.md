@@ -29,11 +29,12 @@
 10. [Steam++](https://steampp.net/)
 11. [Steam](s.team)
 12. [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  状态栏透明
-13. [UU加速器](https://uu.163.com/)
-14. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)  虚拟机
-15. [VMware](https://support.broadcom.com/group/ecx/my-dashboard)
-16. [WDCFree](https://www.wisecleaner.com/wise-disk-cleaner.html)  清理工具
-17. [Anx-Reader](https://anx.anxcye.com/)  阅读器
+13. typora-green  MakeDown编辑器
+14. [UU加速器](https://uu.163.com/)
+15. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)  虚拟机
+16. [VMware](https://support.broadcom.com/group/ecx/my-dashboard)
+17. [WDCFree](https://www.wisecleaner.com/wise-disk-cleaner.html)  清理工具
+18. [Anx-Reader](https://anx.anxcye.com/)  阅读器
 
 # 本。
 1. Linux命令行大全第二版.pde
