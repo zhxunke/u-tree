@@ -1,0 +1,15 @@
+office tool plus
+
+部署
+添加产品
+选择，如果无法部署改对应更新通道
+
+
+激活
+展开许可证管理
+安装许可证
+选择office Mondo 2016 批量许可证
+展开KMS管理
+填写   kms.loli.beer
+设置主机
+完成
