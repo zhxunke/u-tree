@@ -12,7 +12,7 @@
 
     cursor {
         xcursor-theme "capitaine-cursors"
-        xcursor-size 24
+        xcursor-size 36
     }
 
     blur {
