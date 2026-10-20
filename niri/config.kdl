@@ -1,0 +1,16 @@
+include "./cfg/animation.kdl"
+include "./cfg/autostart.kdl"
+include "./cfg/keybinds.kdl"
+include "./cfg/input.kdl"
+include "./cfg/display.kdl"
+include "./cfg/layout.kdl"
+include "./cfg/rules.kdl"
+include "./cfg/misc.kdl"
+
+// 開啟時默認全屏的程序(Firefox / Steam / VS Code)
+window-rule {
+    match app-id="^firefox$"
+    match app-id="^steam$"
+    match app-id="^com\\.microsoft\\.VSCode$"
+    open-maximized true
+}
