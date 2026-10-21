@@ -194,6 +194,6 @@ curl -L shorin.xyz/archsetup | bash
 | ---------- | :--------------- |
 | 水杉输入法 | yay -S msime-bin |
 
-用ai参考文档修改输入法
+用ai（opencode终端）修改输入法
 
 [删除rimesrf](../删除rime输入法.md)
