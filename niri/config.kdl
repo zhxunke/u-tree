@@ -11,6 +11,7 @@ include "./cfg/misc.kdl"
 window-rule {
     match app-id="^firefox$"
     match app-id="^steam$"
+    match app-id="^splayer$"
     match app-id="^com\\.microsoft\\.VSCode$"
     open-maximized true
 }
